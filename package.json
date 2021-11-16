@@ -10,6 +10,6 @@
   "author": "Khushil Khatri",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.507.0"
+    "aws-sdk": "^2.814.0"
   }
 }
